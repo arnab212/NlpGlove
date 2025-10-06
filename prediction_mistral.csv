@@ -1,0 +1,96 @@
+Grab the glass of water,grasp
+Pick the flower,grasp
+Put the pen on the table,grasp
+Hold the cake gently,gentle_grasp
+Take the crisp from the bag,grasp
+Hold the hammer tightly,tight_grasp
+Grab the ball and don't let go of it,error
+Take the book out of the shelf,grasp
+Lift the flask from the table,grasp
+Please don't squeze the mango that hard,gentle_grasp
+Don't let the pot slip,tight_grasp
+I need to hold the cake,grasp
+Take a raspberry from the bowl,gentle_grasp
+Put the pen back in the pen stand,grasp
+It seems like the glass is slipping from the hand,tight_grasp
+Carry the empty glass,grasp
+Put the juice back in the fridge,grasp
+Take some candies from the plate,grasp
+Please pick the needle,grasp
+Grab the keyboard,grasp
+Put down the watch,grasp
+Hold the can of beans,grasp
+Hold the heavy box,tight_grasp
+Drop the bucket,grasp
+Grab the watermellon,error
+Hold the toy gently,gentle_grasp
+Hold the icecream plastic tub,grasp
+Hold the glass cylinder,grasp
+Please don't let the galss cylinder slip,tight_grasp
+Carry the bucket of water,grasp
+Pick the lego blocks,grasp
+Take few lego blocks from the box,grasp
+Hold the spoon,grasp
+Hold he spoon tighter,tight_grasp
+Put the fork back on the table,grasp
+Please hold my spectacle,gentle_grasp
+Hold the bottle under the tap,grasp
+Pick the tray from the oven,grasp
+Place the tray,error
+Hold the book a bit more lightly,gentle_grasp
+Reduce the force on grasp,loosen
+Hand hurts,open_hand
+The item is slipping,gentle_grasp
+The board is falling,open_hand
+Grab some crayons,grasp
+Pick up the red crayon,grasp
+Hold the knife,grasp
+Pick up the towel,grasp
+Hold the grocery bag,grasp
+Pick the plastic cup,grasp
+Don't crush the plastic cup,gentle_grasp
+Dont let the plastic cup slip,tight_grasp
+Place the lid on the jar,grasp
+Take the cookie from the jar,grasp
+Lift the box carefully,gentle_grasp
+Take the pencil from the drawer,grasp
+Hold the fragile vase,gentle_grasp
+Hold the bucket of sand,grasp
+Grab the keys from the counter,grasp
+Take the scissors from the box,gentle_grasp
+Hold the baseball bat firmly,tight_grasp
+Place the plant pot on the shelf,grasp
+Hold the glass jar,grasp
+Hold the guitar neck,grasp
+Take the phone charger,grasp
+Pick up the pillow,grasp
+Hold the umbrella tightly,tight_grasp
+Take the earphones from the bag,gentle_grasp
+Don't hold the rope that tightly,gentle_grasp
+Pick up the paper clip,grasp
+Carry the potted plant,grasp
+Hold the lightbulb carefully,gentle_grasp
+Grab the TV remote,grasp
+Put the pillow on the bed,grasp
+Hold the paintbrush,grasp
+Pick up the coin from the floor,grasp
+Hold the rope firmly,tight_grasp
+Place the plate on the counter,grasp
+Tighten your grip on the remote,tight_grasp
+Don't let go of the wrench,tight_grasp
+Ease up on your grip of the mug,loosen
+Loosen the hold on the book gently,loosen
+Loosen your grasp on the plastic glass to prevent spilling,loosen
+Grab the box of tissues,grasp
+Pick the chocolate bar from the table,grasp
+Pick the apple from the bowl,grasp
+Pick up the magazine,error
+Let go of the cup gently,open_hand
+Release the phone,open_hand
+Gently put down the thermos,gentle_grasp
+Hold the comb,grasp
+Gently hold the candle,gentle_grasp
+Hold the salt saker trightly,tight_grasp
+Tightly hold the cheese grater,tight_grasp
+Put the candle in the candle holder,error
+Hold the toothbrush,grasp

@@ -1,0 +1,96 @@
+Grab the glass of water,,grasp,tight_grasp,tight_grasp,grasp,,grasp,grasp,gentle_grasp
+Pick the flower,,gentle_grasp,pinch_grasp,pinch_grasp,pinch_grasp,,pinch_grasp,pinch_grasp,gentle_grasp
+Put the pen on the table,,open_hand,open_hand,open_hand,open_hand,,grasp,grasp,open_hand
+Hold the cake gently,,gentle_grasp,gentle_grasp,gentle_grasp,gentle_grasp,,gentle_grasp,gentle_grasp,gentle_grasp
+Take the crisp from the bag,,pinch_grasp,pinch_grasp,pinch_grasp,pinch_grasp,,grasp,grasp,gentle_grasp
+Hold the hammer tightly ,,tight_grasp,tight_grasp,tight_grasp,tight_grasp,,tight_grasp,tight_grasp,tight_grasp
+Grab the ball and don't let go of it,,tight_grasp,grasp,tight_grasp,grasp,,grasp,grasp,tight_grasp
+Take the book out of the shelf,,pinch_grasp,grasp,grasp,pinch_grasp,,grasp,grasp,gentle_grasp
+Lift the flask from the table,,tight_grasp,grasp,grasp,grasp,,grasp,grasp,gentle_grasp
+Please don't squeze the mango that hard,,loosen,loosen,loosen,loosen,,open_hand,tight_grasp,gentle_grasp
+Don't let the pot slip,,tighten,tighten,tighten,tighten,,open_hand,open_hand,tight_grasp
+I need to hold the cake,,gentle_grasp,pinch_grasp,open_hand,gentle_grasp,,grasp,grasp,gentle_grasp
+Take a raspberry from the bowl,,pinch_grasp,pinch_grasp,pinch_grasp,pinch_grasp,,gentle_grasp,pinch_grasp,gentle_grasp
+Put the pen back in the pen stand,,open_hand,open_hand,pinch_grasp,open_hand,,open_hand,grasp,pinch_grasp
+It seems like the glass is slipping from the hand,,tighten,tighten,tighten,tighten,,open_hand,open_hand,tighten
+Carry the empty glass,,grasp,grasp,grasp,gentle_grasp,,grasp,grasp,gentle_grasp
+Put the juice back in the fridge,,open_hand,open_hand,open_hand,open_hand,,open_hand,grasp,grasp
+Take some candies from the plate,,grasp,grasp,pinch_grasp,pinch_grasp,,pinch_grasp,gentle_grasp,gentle_grasp
+Please pick the needle,,pinch_grasp,pinch_grasp,pinch_grasp,pinch_grasp,,pinch_grasp,pinch_grasp,pinch_grasp
+Grab the keyboard,,grasp,grasp,grasp,grasp,,pinch_grasp,pinch_grasp,gentle_grasp
+Put down the watch,,open_hand,open_hand,open_hand,open_hand,,open_hand,open_hand,open_hand
+Hold the can of beans,,grasp,grasp,grasp,grasp,,grasp,gentle_grasp,grasp
+Hold the heavy box,,tight_grasp,tight_grasp,tight_grasp,tight_grasp,,tight_grasp,tight_grasp,tight_grasp
+Drop the bucket,,open_hand,open_hand,open_hand,open_hand,,open_hand,open_hand,open_hand
+Grab the watermellon,,tight_grasp,tight_grasp,tight_grasp,grasp,,pinch_grasp,pinch_grasp,tight_grasp
+Hold the toy gently,,gentle_grasp,gentle_grasp,gentle_grasp,gentle_grasp,,gentle_grasp,gentle_grasp,gentle_grasp
+Hold the icecream plastic tub,,grasp,grasp,grasp,gentle_grasp,,grasp,gentle_grasp,gentle_grasp
+Hold the glass cylinder,,grasp,grasp,gentle_grasp,gentle_grasp,,grasp,grasp,gentle_grasp
+Please don't let the galss cylinder slip,,tighten,tighten,tighten,tighten,,open_hand,open_hand,tight_grasp
+Carry the bucket of water,,tight_grasp,tight_grasp,tight_grasp,tight_grasp,,grasp,grasp,tight_grasp
+Pick the lego blocks,,grasp,grasp,grasp,grasp,,pinch_grasp,pinch_grasp,gentle_grasp
+Take few lego blocks from the box,,grasp,grasp,grasp,pinch_grasp,,pinch_grasp,pinch_grasp,gentle_grasp
+Hold the spoon,,pinch_grasp,pinch_grasp,grasp,pinch_grasp,,grasp,gentle_grasp,gentle_grasp
+Hold he spoon tighter,,tighten,tighten,tighten,tighten,,tighten,tighten,tighten
+Put the fork back on the table,,open_hand,open_hand,open_hand,open_hand,,grasp,open_hand,open_hand
+Please hold my spectacle,,pinch_grasp,pinch_grasp,pinch_grasp,pinch_grasp,,gentle_grasp,open_hand,gentle_grasp
+Hold the bottle under the tap,,tight_grasp,tight_grasp,tight_grasp,tighten,,grasp,gentle_grasp,grasp
+Pick the tray from the oven,,tight_grasp,grasp,tight_grasp,grasp,,grasp,pinch_grasp,tight_grasp
+Place the tray,,open_hand,open_hand,open_hand,open_hand,,grasp,grasp,tight_grasp
+Hold the book a bit more lightly,,loosen,loosen,loosen,loosen,,gentle_grasp,tighten,gentle_grasp
+Reduce the force on grasp,,loosen,loosen,loosen,loosen,,loosen,open_hand,gentle_grasp
+Hand hurts,,loosen,loosen,open_hand,loosen,,pinch_grasp,open_hand,gentle_grasp
+The item is slipping,,tighten,tighten,tighten,tighten,,open_hand,open_hand,tighten
+The board is falling ,,tighten,tighten,tighten,tighten,,open_hand,open_hand,tight_grasp
+Grab some crayons ,,grasp,grasp,grasp,grasp,,pinch_grasp,pinch_grasp,gentle_grasp
+Pick up the red crayon,,pinch_grasp,pinch_grasp,pinch_grasp,pinch_grasp,,pinch_grasp,pinch_grasp,gentle_grasp
+Hold the knife,,pinch_grasp,pinch_grasp,grasp,grasp,,grasp,grasp,tight_grasp
+Pick up the towel ,,pinch_grasp,grasp,pinch_grasp,grasp,,grasp,grasp,gentle_grasp
+Hold the grocery bag,,tight_grasp,tight_grasp,tight_grasp,grasp,,grasp,grasp,tight_grasp
+Pick the plastic cup,,gentle_grasp,gentle_grasp,grasp,grasp,,pinch_grasp,pinch_grasp,gentle_grasp
+Don't crush the plastic cup,,loosen,loosen,loosen,loosen,,loosen,grasp,gentle_grasp
+Dont let the plastic cup slip,,tighten,tighten,tighten,tighten,,open_hand,open_hand,grasp
+Place the lid on the jar,,open_hand,open_hand,open_hand,open_hand,,grasp,grasp,gentle_grasp
+Take the cookie from the jar,,pinch_grasp,pinch_grasp,pinch_grasp,pinch_grasp,,grasp,grasp,gentle_grasp
+Lift the box carefully,,gentle_grasp,gentle_grasp,gentle_grasp,gentle_grasp,,grasp,grasp,gentle_grasp
+Take the pencil from the drawer,,pinch_grasp,pinch_grasp,pinch_grasp,pinch_grasp,,grasp,grasp,pinch_grasp
+Hold the fragile vase,,gentle_grasp,grasp,gentle_grasp,gentle_grasp,,grasp,gentle_grasp,gentle_grasp
+Hold the bucket of sand,,tight_grasp,tight_grasp,tight_grasp,tight_grasp,,grasp,gentle_grasp,tight_grasp
+Grab the keys from the counter,,pinch_grasp,pinch_grasp,pinch_grasp,pinch_grasp,,grasp,pinch_grasp,pinch_grasp
+Take the scissors from the box,,pinch_grasp,pinch_grasp,grasp,pinch_grasp,,grasp,grasp,tight_grasp
+Hold the baseball bat firmly,,tight_grasp,tight_grasp,tighten,tight_grasp,Asseccor 3 assumed that the bat was alread held.,grasp,tight_grasp,tight_grasp
+Place the plant pot on the shelf,,open_hand,open_hand,open_hand,open_hand,,grasp,grasp,grasp
+Hold the glass jar,,grasp,grasp,gentle_grasp,grasp,,grasp,grasp,gentle_grasp
+Hold the guitar neck,,grasp,tight_grasp,grasp,grasp,,grasp,grasp,gentle_grasp
+Take the phone charger,,pinch_grasp,grasp,grasp,grasp,,pinch_grasp,grasp,gentle_grasp
+Pick up the pillow,,grasp,grasp,gentle_grasp,grasp,,grasp,grasp,gentle_grasp
+Hold the umbrella tightly,,tight_grasp,tight_grasp,tight_grasp,tight_grasp,,grasp,tight_grasp,tight_grasp
+Take the earphones from the bag,,pinch_grasp,pinch_grasp,pinch_grasp,pinch_grasp,,grasp,grasp,gentle_grasp
+Don't hold the rope that tightly ,,loosen,loosen,loosen,loosen,,grasp,tighten,gentle_grasp
+Pick up the paper clip,,pinch_grasp,pinch_grasp,pinch_grasp,pinch_grasp,,pinch_grasp,pinch_grasp,pinch_grasp
+Carry the potted plant,,tight_grasp,tight_grasp,tight_grasp,grasp,,grasp,grasp,tight_grasp
+Hold the lightbulb carefully,,gentle_grasp,gentle_grasp,gentle_grasp,gentle_grasp,,grasp,grasp,gentle_grasp
+Grab the TV remote,,grasp,grasp,grasp,grasp,,pinch_grasp,grasp,gentle_grasp
+Put the pillow on the bed,,open_hand,open_hand,open_hand,open_hand,,grasp,grasp,gentle_grasp
+Hold the paintbrush,,pinch_grasp,pinch_grasp,pinch_grasp,grasp,,grasp,gentle_grasp,gentle_grasp
+Pick up the coin from the floor,,pinch_grasp,pinch_grasp,pinch_grasp,pinch_grasp,,grasp,grasp,pinch_grasp
+Hold the rope firmly,,tight_grasp,tight_grasp,tight_grasp,tight_grasp,,tight_grasp,tight_grasp,tight_grasp
+Place the plate on the counter,,open_hand,open_hand,open_hand,open_hand,,grasp,grasp,gentle_grasp
+Tighten your grip on the remote,,tighten,tighten,tighten,tighten,,tighten,tighten,tighten
+Don't let go of the wrench,,tighten,tighten,tighten,tighten,,open_hand,open_hand,tight_grasp
+Ease up on your grip of the mug,,loosen,loosen,loosen,loosen,,loosen,loosen,loosen
+Loosen the hold on the book gently,,loosen,loosen,loosen,loosen,,loosen,loosen,loosen
+Loosen your grasp on the plastic glass to prevent spilling,,loosen,loosen,loosen,loosen,,loosen,loosen,loosen
+Grab the box of tissues,,grasp,grasp,grasp,grasp,,pinch_grasp,pinch_grasp,gentle_grasp
+Pick the chocolate bar from the table,,pinch_grasp,pinch_grasp,grasp,grasp,,grasp,pinch_grasp,gentle_grasp
+Pick the apple from the bowl,,pinch_grasp,grasp,pinch_grasp,grasp,,pinch_grasp,pinch_grasp,gentle_grasp
+Pick up the magazine,,pinch_grasp,grasp,pinch_grasp,grasp,,pinch_grasp,pinch_grasp,gentle_grasp
+Let go of the cup gently,,open_hand,open_hand,open_hand,open_hand,,open_hand,open_hand,open_hand
+Release the phone,,open_hand,open_hand,open_hand,open_hand,,open_hand,open_hand,open_hand
+Gently put down the thermos,,open_hand,open_hand,open_hand,open_hand,,gentle_grasp,gentle_grasp,loosen
+Hold the comb,,grasp,grasp,grasp,grasp,,grasp,grasp,gentle_grasp
+Gently hold the candle,,pinch_grasp,gentle_grasp,gentle_grasp,gentle_grasp,,gentle_grasp,gentle_grasp,gentle_grasp
+Hold the salt saker trightly,,tight_grasp,tight_grasp,tight_grasp,tight_grasp,,pinch_grasp,gentle_grasp,tight_grasp
+Tightly hold the cheese grater,,tight_grasp,tight_grasp,tight_grasp,tight_grasp,,grasp,gentle_grasp,tight_grasp
+Put the candle in the candle holder,,open_hand,open_hand,open_hand,open_hand,,grasp,grasp,gentle_grasp
+Hold the toothbrush,,grasp,grasp,grasp,grasp,,grasp,grasp,gentle_grasp
