@@ -1,0 +1,11 @@
+prompt,prediction,feedback,correction
+Pick up the can,grasp,yes,
+Pick up the can,grasp,no,tight_grasp
+Pick up the plastic cup which is half way filled with water,gentle_grasp,yes,
+Pick up the rubber which is 3cm vertically up,pinch_grasp,yes,
+I want to pick up the ID card,pinch_grasp,yes,
+I am holding a heavy can it is slipping out of my hand,tighten,yes,
+I am holding a plastic ball but it's too tight,loosen,yes,
+I am pinching an eraser and it's falling from my hand,tighten,yes,
+Please put the pen back on the table,open_hand,yes,
+And my hand hurts,open_hand,yes,

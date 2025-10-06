@@ -1,0 +1,11 @@
+prompt,prediction,feedback,correction
+Help me grab this empty can.,grasp,yes,
+Help me lift this can.,grasp,yes,
+Help me grab this light plastic cup of water.,loosen,no,gentle_grasp
+Help me grab this small eraser.,grasp,no,pinch_grasp
+Help me grab this thin plastic card.,pinch_grasp,yes,
+Strengthen my grip on this heavy can.,tighten,yes,
+Losing the grip on this ball.,loosen,yes,
+Tighten my grasp on this rubber.,tighten,yes,
+I want to drop this pen.,open_hand,yes,
+"It's too strong, it's hurting my hand, open, open the grip.",tighten,no,open_hand
