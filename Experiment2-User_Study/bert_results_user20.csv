@@ -1,0 +1,11 @@
+prompt,prediction,feedback,correction
+Close hand.,grasp,yes,
+Pick up a heavy can.,grasp,yes,
+"Be careful, I'm picking up a plastic cup with water in it.",loosen,no,gentle_grasp
+"I'm picking up a smaller razor so I need to probably... Can I say pinch, pinch it?",pinch_grasp,yes,
+I'm trying to pick up a thin ID card from the edge of a table.,pinch_grasp,yes,
+I'm holding onto the can but it's slipping out of my hand. I need to hold it a bit tighter.,tighten,yes,
+I'm holding onto a fragile ball that I'm about to crush so I need to loosen up a bit.,loosen,yes,
+I'm pinching a rubber but it's slipping out of my hand.,loosen,no,tighten
+I'm holding onto a pen and I'm going to drop it onto the table.,open_hand,yes,
+I'm feeling pain from this closed hand. Can you relieve it?,loosen,no,open_hand

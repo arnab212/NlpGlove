@@ -1,0 +1,11 @@
+prompt,prediction,feedback,correction
+Grasp the can,grasp,yes,
+Grasp the heavy can.,tight_grasp,yes,
+Pick the glass of water,gentle_grasp,no,pinch_grasp
+Pick the small eraser,pinch_grasp,yes,
+Collect the card.,pinch_grasp,yes,
+Increase the grasping,tighten,yes,
+Let it go.,open_hand,yes,
+pinch harder,tighten,yes,
+Release gently,open_hand,yes,
+"Stop it, it hurts.",open_hand,yes,

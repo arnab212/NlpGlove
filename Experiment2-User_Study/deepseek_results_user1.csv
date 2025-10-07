@@ -1,0 +1,11 @@
+prompt,prediction,feedback,correction
+I want to grasp the can.,grasp,yes,
+I want to pick up the heavy can.,tight_grasp,yes,
+I want to grasp a glass of water.,gentle_grasp,yes,
+I want to pick up an eraser.,pinch_grasp,yes,
+I want to pick up a card placed on the table.,pinch_grasp,yes,
+I need to grasp harder.,tighten,yes,
+You are grasping too hard.,loosen,yes,
+I want a stable grasp.,grasp,yes,
+I want to release the pen.,open_hand,yes,
+You grasp too hard and hurting.,loosen,yes,

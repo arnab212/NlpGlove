@@ -1,0 +1,11 @@
+prompt,prediction,feedback,correction
+Grasp the empty can.,gentle_grasp,yes,
+Grasp the heavy can.,tight_grasp,yes,
+Grasp the glass with water.,gentle_grasp,yes,
+"Pinch, the rubber bloks",pinch_grasp,yes,
+pinch the card,pinch_grasp,yes,
+Hold the heavy can so that it will not slip from my hand.,tight_grasp,yes,
+"I am holding the ball, make sure you don't crush it.",gentle_grasp,yes,
+I am holding the rubber block but make sure it should not slip from my hand.,tighten,yes,
+I am holding the pen makes sure it drops on the table.,open_hand,yes,
+reduce the force so that I can open my hand,loosen,yes,

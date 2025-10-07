@@ -1,0 +1,11 @@
+prompt,prediction,feedback,correction
+Grasp the open 10.,grasp,yes,
+Grasp the tin.,grasp,no,tight_grasp
+Grasp the plastic cup with water inside.,gentle_grasp,no,pinch_grasp
+Grasp the rubber.,grasp,no,pinch_grasp
+Grasp the ID card.,gentle_grasp,yes,
+I am holding a heavy can and it is slipping out of my hand tight in the grass.,tighten,yes,
+Losing my grasp on a ball.,tighten,no,loosen
+Don't let this eraser slip out of my hands.,pinch_grasp,no,tighten
+Open hand.,open_hand,yes,
+Open my hand.,open_hand,yes,

@@ -1,0 +1,11 @@
+prompt,prediction,feedback,correction
+Grasp the object,grasp,yes,
+o c e tight grasp,tight_grasp,yes,
+Pinch the cup.,pinch_grasp,yes,
+Pick up the eraser.,grasp,no,pinch_grasp
+Pick up the card.,grasp,no,pinch_grasp
+Titan the Grasp,pinch_grasp,no,tighten
+Losing the hand,open_hand,no,loosen
+Pinch more tightly.,tighten,yes,
+Release the pen,open_hand,yes,
+I am in pain. Release the hand immediately.,open_hand,yes,

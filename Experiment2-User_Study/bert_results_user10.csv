@@ -1,0 +1,11 @@
+prompt,prediction,feedback,correction
+Grasp the can gently.,grasp,yes,
+Grasp these heavy can.,tight_grasp,yes,
+Grasp a very delicate glass containing water.,gentle_grasp,yes,
+pinch this rubber object,pinch_grasp,yes,
+Grasp this business card made of plastic.,pinch_grasp,yes,
+Hold the object tight because it is heavy.,tighten,yes,
+Hold the ball less firmly.,tighten,no,loosen
+Strengthen the pinch because the object is falling from my fingers.,tighten,yes,
+Lose in the pinching because I want to drop the object.,loosen,no,open_hand
+Open the hand because it is painful.,open_hand,yes,

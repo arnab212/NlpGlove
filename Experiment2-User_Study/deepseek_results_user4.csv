@@ -1,0 +1,11 @@
+prompt,prediction,feedback,correction
+Please grasp the can.,grasp,yes,
+Please grasp the full can.,grasp,no,tight_grasp
+Please grasp this plastic cup of water.,gentle_grasp,yes,
+Please pick up the small rubber.,pinch_grasp,yes,
+Please pick the card up from the side of the table.,pinch_grasp,yes,
+The can is heavier than I expected.,tighten,yes,
+You are crushing the ball. Please be gentle.,gentle_grasp,no,loosen
+More force…,tighten,yes,
+Please place the pen.,open_hand,yes,
+Stop.,open_hand,yes,
