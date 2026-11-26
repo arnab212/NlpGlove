@@ -1,0 +1,25 @@
+# model weights (hosted separately, see README)
+*.safetensors
+*.bin
+*.gguf
+bert_finetuned*/
+roberta_finetuned*/
+**/adaptive_model/
+**/checkpoint-*/
+models/
+
+# Python and notebooks
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+
+# secrets and local files
+.env
+*.key
+
+# media
+*.mp4
+*.mov
+*.wav

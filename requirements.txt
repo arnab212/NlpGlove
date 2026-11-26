@@ -1,0 +1,27 @@
+# Voice-to-Grasp - Python packages (Python 3.13; versions as used in the study where recorded)
+torch==2.7.0
+transformers==4.51.3
+datasets==3.5.0
+accelerate==1.6.0
+numpy==2.2.5
+pandas==2.2.3
+scipy==1.15.2
+scikit-learn==1.6.1
+statsmodels
+matplotlib==3.10.1
+seaborn==0.13.2
+adjustText
+pillow==11.2.1
+openpyxl
+psutil==7.0.0
+# speech, glove and APIs
+openai==1.99.6
+openai-whisper==20250625
+sounddevice==0.5.1
+pyserial==3.5
+pyttsx3
+# revision analyses
+peft
+opencv-python
+# optional: offline LLM baselines (Llama-2, Mistral)
+# llama-cpp-python
